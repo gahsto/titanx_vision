@@ -13,7 +13,6 @@
 }
 .home-image {
   width: auto;
-  align-self: flex-start;
   object-fit: cover;
   border-color: var(--dl-color-gray-black);
   border-width: 0px;
